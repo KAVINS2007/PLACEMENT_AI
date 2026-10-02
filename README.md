@@ -98,7 +98,7 @@ PLACEMATE-AI provides an integrated placement-preparation environment where stud
                     ┌─────────────────────┐
                     │ Placement Readiness │
                     └─────────────────────┘
-# Skill gap analysis
+## Skill gap analysis
 Current Skills
        ↓
 Required Skills
